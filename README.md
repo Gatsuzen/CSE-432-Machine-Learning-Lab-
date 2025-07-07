@@ -70,4 +70,3 @@ Approach:
 5. NumPy: A fundamental package for numerical computing in Python, used for array operations.
 
 ---
-**Note:** The Google Colab notebook used for this project can be found [here](https://colab.research.google.com/drive/1nJcsMgjQKK-kGcZJT8GOZmMCYUZGIeOp#scrollTo=tdoZR4TxgGYP%5D).
